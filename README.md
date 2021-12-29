@@ -14,11 +14,11 @@
 
   			- 분류 과제에서는 scikit-learn의 iris data를 활용한 예시 제시
 
-  <img src="/Users/kwanseok/intern/img/irisdata.png" alt="image" style="zoom:50%;" />
+  <img src="/img/irisdata.png" alt="image" style="zoom:50%;" />
 
      - 회귀 과제에서는 scikit-learn의 boston data를 활용한 예시 제시
 
-  <img src="/Users/kwanseok/intern/img/boston.png" alt="image" style="zoom:50%;" />
+  <img src="/img/boston.png" alt="image" style="zoom:50%;" />
 
 ### Preprocessing
 
@@ -30,9 +30,9 @@
 
   - 자동으로 전처리 진행 후 데이터 크기, 전처리에 사용한 방법을 보여줌
 
-    <img src="/Users/kwanseok/intern/img/preprocess.png" alt="image" style="zoom: 50%;" />
+    <img src="/img/preprocess.png" alt="image" style="zoom: 50%;" />
 
-    <img src="/Users/kwanseok/intern/img/datasize.png" alt="image" style="zoom:50%;" />
+    <img src="/img/datasize.png" alt="image" style="zoom:50%;" />
 
 ### Model Training
 
@@ -40,23 +40,23 @@
 
   - Pycaret을 활용해 여러 머신러닝 모델들을 학습시켜 가장 성능이 좋은 모델 제시
 
-  <img src="/Users/kwanseok/intern/img/pycaret.png" alt="image" style="zoom:50%;" />
+  <img src="/img/pycaret.png" alt="image" style="zoom:50%;" />
 
 - Autokeras
 
   - Autokreas를 이용해 신경망 기반의 모델 학습
   - AI가 모델 구조를 직접 결정하여 모델을 구성해 학습을 진행하는 "AI가 만든 AI 모델" 활용 가능
 
-  <img src="/Users/kwanseok/intern/img/akmodelsummary.png" alt="image" style="zoom: 33%;" />
+  <img src="/img/akmodelsummary.png" alt="image" style="zoom: 33%;" />
 
-  <img src="/Users/kwanseok/intern/img/autokeras.png" alt="image" style="zoom: 33%;" />
+  <img src="/img/autokeras.png" alt="image" style="zoom: 33%;" />
 
 - TabNet
 
   - Table 데이터 분석에 좋은 성능을 보이는 것으로 알려진 TabNet 모델 학습
 
   <figure>
-    <img src="/Users/kwanseok/intern/img/tabnet.png" alt="image" style="zoom:50%">
+    <img src="/img/tabnet.png" alt="image" style="zoom:50%">
     <figcaption align="center" size=6>TabNet: Attentive Interpretable Tabular Learning, Secan O. Arik, Tomas Pfister, 2020 Dec
     </figcaption>
   </figure>
@@ -67,19 +67,19 @@
 
   - Decision Tree 모델을 기반으로 각 변수별 중요도를 산출
 
-  <img src="/Users/kwanseok/intern/img/pycaret2.png" alt="image" style="zoom:50%;" />
+  <img src="/img/pycaret2.png" alt="image" style="zoom:50%;" />
 
 - Autokeras
 
   - Explainable AI, 설명 가능한 AI를 활용하기 위해 LIME을 활용해 변수별 중요도 산출
 
-  <img src="/Users/kwanseok/intern/img/lime.png" alt="image" style="zoom: 50%;" />
+  <img src="/img/lime.png" alt="image" style="zoom: 50%;" />
 
 - TabNet
 
   - TabNet 모델 구조를 활용한 변수 중요도 산출
 
-  <img src="/Users/kwanseok/intern/img/tabnet2.png" alt="image" style="zoom: 33%;" />
+  <img src="/img/tabnet2.png" alt="image" style="zoom: 33%;" />
 
   - 해당 변수 중요도를 통해 현재 진행하는 분석 과제 중 예측하고자 하는 변수 설명에 가장 중요한 변수를 찾아 모델을 이해하고, 해석 결과를 의사결정에 활용할 수 있음.
 
