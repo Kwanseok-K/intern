@@ -14,11 +14,11 @@
 
   			- 분류 과제에서는 scikit-learn의 iris data를 활용한 예시 제시
 
-  <img src="/img/irisdata.png" alt="image" style="zoom:50%;" />
+  <img src="/R-AI/img/irisdata.png" alt="image" style="zoom:50%;" />
 
      - 회귀 과제에서는 scikit-learn의 boston data를 활용한 예시 제시
 
-  <img src="/img/boston.png" alt="image" style="zoom:50%;" />
+  <img src="/R-AI/img/boston.png" alt="image" style="zoom:50%;" />
 
 ### Preprocessing
 
