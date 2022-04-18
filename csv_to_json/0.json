@@ -1,0 +1,33 @@
+{
+   "name": "Your Collection #1",
+   "description": "The Cooooolest NFTs",
+   "image": "ipfs://NewUriToReplace/1.png",
+   "dna": "f795dbbebbe18288e2db37c0dcf21e202823d597",
+   "edition": "1",
+   "date": "1646360000000.0",
+   "artist": "Daniel",
+   "surname": "Kevin",
+   "compiler": "HashLips Art Engine",
+   "attributes": [
+      {
+         "trait_type": "_Background",
+         "value": "Black"
+      },
+      {
+         "trait_type": "_Eyeball",
+         "value": "White"
+      },
+      {
+         "trait_type": "_Eye color",
+         "value": "Yellow"
+      },
+      {
+         "trait_type": "_Iris",
+         "value": "Small"
+      },
+      {
+         "trait_type": "_Shine",
+         "value": "Shapes"
+      }
+   ]
+}
